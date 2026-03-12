@@ -42,7 +42,7 @@
     <distributionManagement>
         <repository>
             <id>nexus-releases</id>
-            <url>http://16.170.252.199:8081/repository/nexus-poroject02//</url>
+            <url>http://16.170.202.192:8081/repository/run-specific-stage//</url>
         </repository>
     </distributionManagement>
 
